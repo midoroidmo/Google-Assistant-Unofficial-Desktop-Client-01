@@ -133,7 +133,7 @@
         "google-assistant": "github:Melvin-Abraham/google-assistant#g-assist",
         "grpc": "1.24.7",
         "isomorphic-dompurify": "^0.23.0",
-        "marked": "^4.1.1",
+        "marked": "^4.2.5",
         "node-fetch": "^2.6.1"
     },
     "devDependencies": {
